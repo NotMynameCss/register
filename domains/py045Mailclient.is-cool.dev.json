@@ -1,10 +1,10 @@
 {
   "description": "Test Mail Client-Server",
-  "domain": "is-not-a.dev",
-  "subdomain": "testSoftware",
+  "domain": "is-cool.dev",
+  "subdomain": "py045Mailclient",
   "owner": {
-    "repo": "https://github.com/username/repo",
-    "email": "hello@example.com"
+    "repo": "https://github.com/NotMynameCss/mailClient",
+    "email": "nguyenhuyilc2003@gmail.com"
   },
   "record": {
     "A": ["1.1.1.1", "1.0.0.1"],
